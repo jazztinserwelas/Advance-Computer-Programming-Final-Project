@@ -1,7 +1,3 @@
-Here's the documentation based on your provided text. I've organized it according to the format required for a GitHub repository:
-
----
-
 # StepUp Job-Matching Platform
 
 ## Project Overview
@@ -118,7 +114,4 @@ Follow these steps to set up and run the StepUp Job-Matching Platform:
 
 By connecting local job seekers with nearby opportunities, the StepUp Job-Matching Platform contributes to reducing unemployment and poverty while promoting sustainable, inclusive economic growth.
 
----
-
-This repository provides all the files necessary to run and further develop the platform, along with instructions for setting it up and using it effectively.
 
